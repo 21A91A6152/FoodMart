@@ -1,0 +1,24 @@
+ 
+
+.swal2-title,
+.swal2-content {
+    color: #000000;
+}
+
+.swal2-popup {
+    border: none;
+}
+
+.swal2-icon {
+    color: #4CAF50; /* Adjust as needed */
+}
+
+.swal2-styled.swal2-confirm {
+    background-color: #4CAF50; /* Adjust as needed */
+    border: 1px solid #4CAF50; /* Adjust as needed */
+}
+
+.swal2-styled.swal2-cancel {
+    background-color: #DC143C; /* Adjust as needed */
+    border: 1px solid #DC143C; /* Adjust as needed */
+}
